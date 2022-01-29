@@ -1,7 +1,7 @@
 {
-  "name": "react-next-material-typescript-template",
-  "version": "1.1.1",
-  "description": "A simple opinionated template project for spinning up React demos using Next.js, Material-UI, etc.",
+  "name": "coreyauger.com",
+  "version": "0.0.1",
+  "description": "Yep, you guessed it. My Profile site.",
   "main": "index.js",
   "scripts": {
     "dev": "next -p ${PORT:-3000}",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blainegarrett/react-next-material-typescript-template.git"
+    "url": "git+https://github.com/coreyauger/public-profile.git"
   },
   "keywords": [
     "nextjs",
@@ -23,14 +23,15 @@
     "react",
     "ssr",
     "typescript",
-    "hooks"
+    "hooks",
+    "coreyauger"
   ],
-  "author": "Blaine Garrett <blaine@blainegarrett.com>",
+  "author": "Corey Auger <coreyauger@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blainegarrett/react-next-material-typescript-template/issues"
+    "url": "https://github.com/coreyauger/public-profile/issues"
   },
-  "homepage": "https://github.com/blainegarrett/react-next-material-typescript-template#readme",
+  "homepage": "https://coreyauger.com",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
@@ -39,7 +40,8 @@
     "next": "^10.0.9",
     "next-offline": "^5.0.3",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-scroll-parallax": "^3.0.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.10",
