@@ -12,6 +12,8 @@ class MyDocument extends Document {
           <meta charSet="utf-8" />
           <link rel="manifest" href="/static/manifest.json" />
           <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet" />
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet" />
 
           {/* Icons generated via https://favicon.io/favicon-generator/ */}
           <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png" />
